@@ -28,8 +28,8 @@ Make Predictions and plot the graph with the Actual and Predicted values.
 
 ## PROGRAM
 ```
-Developed By: SV ROHITHKUMAR
-Register Number: 212221230084
+Developed By: Pragatheesvaran AB
+Register Number: 212221240039
 ```
 ```
 import numpy as np
@@ -97,7 +97,8 @@ plt.show()
 
 ### Mean Square Error
 
-![image](https://github.com/Ramsai1234/rnn-stock-price-prediction/assets/94269989/f1252cf7-ae0c-4ca0-a699-c7c1a272ca2e)
+![image](https://github.com/praga-16/rnn-stock-price-prediction/assets/95266924/1d11a157-fd54-4bfe-aecb-e795085a803a)
+
 
 ## RESULT
 Thus, we have successfully created a Simple RNN model for Stock Price Prediction.
